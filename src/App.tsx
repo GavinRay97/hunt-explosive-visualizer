@@ -738,7 +738,7 @@ function App() {
         <footer className="text-center mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
           <p className="mb-2">
             <a
-              href="https://github.com/GavinRay97/hunt-damage-calculator"
+              href="https://github.com/GavinRay97/hunt-explosive-visualizer"
               className="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 dark:text-blue-300 transition duration-300"
             >
               Source code
